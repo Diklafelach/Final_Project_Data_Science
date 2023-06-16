@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/AyalaTzabari">
-    <img src="AppScreensAndPoster/logo.png" alt="Logo"> 
+    <img src="Logo.png" alt="Logo"> 
 <p align ="center"> 
 <i>Data acquisition and analysis for predicting a research question using <a href="https://www.python.org/">Python🐍</a> & <a href="https://www.selenium.dev/documentation/webdriver/"> Selenium🔥</a>From<a href="https://www.goodreads.com/">GoodReads📚</a> </i>
 <br><br>
