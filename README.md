@@ -15,7 +15,7 @@
   
   - Predictive models.
   
-## Modles & EDA 😍
+## Modles & EDA
 <p align="center">
 <img src="AppScreensAndPoster/showcase.png" height="400" style="display: block; margin: 0 auto; text-align: center;"/>
 <hr class="dotted" style="border-top: 3px dotted #bbb;">
@@ -36,7 +36,7 @@
   <img src="AppScreensAndPoster/footer.png" height="400" style="display: block; margin: 0 auto; text-align: center;"hspace="20" />
 </p>
 
-## In Action 👀
+## In Action 🎬
 <p align="center">
   <a href="https://github.com/AyalaTzabari">
     <a href="https://youtu.be/avfzXNIbI8I">Link to the youtube video</a>
