@@ -39,6 +39,7 @@
 ## In Action 👀
 <p align="center">
   <a href="https://github.com/AyalaTzabari">
+    <a href="https://youtu.be/avfzXNIbI8I">
      <img src="Video.gif" alt="Logo" height="540"> 
   </a>
 </p>
